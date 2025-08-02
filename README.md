@@ -41,6 +41,8 @@ Contains historical transaction data from an online UK-based retail store with f
 
 InvoiceDate, Description, Quantity, UnitPrice, CustomerID, Country
 
+Dataset link: https://docs.google.com/spreadsheets/d/1kntnvRasz1tRUWdhZY_tZN5F7ZgeWAuq/edit?usp=sharing&ouid=112151833766914868732&rtpof=true&sd=true
+
 🧩 Code Structure
 load_data(): Loads and cleans the dataset
 
